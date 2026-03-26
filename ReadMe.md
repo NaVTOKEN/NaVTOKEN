@@ -19,6 +19,22 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
+# [Menu](#menu)
+- [Welcome](#welcome)
+- [Moving Logos](#moving-logos-)
+- [Animated Social Icons](#animated-social-media-icons-)
+- [Animated Emojis](#animated-emojis-)
+- [Animated Hello Banner](#animated-hello-)
+- [Build your own Octocat](#build-your-own-octocat-)
+- [Nice to Meet You Raw](#hello-nice-to-meet-you--)
+- [Work Culture (HD Visuals)](#work-culture-hd-visuals-)
+- [Extra Value Added](#extra-value-added-)
+- [Cute Working Stickers](#cute-working-stickers-)
+- [Awesome Banners](#awesome-banners-)
+- [Cool Avatars for GitHub Profile](#--cool-avatars-for-github-profile---)
+  
+<br>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/navinbe11mt?igsh=dHdrMWxscWg0Z3g1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/LectureCreative6684/s/r5xHnIGa62) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/navin_tigga91) 
 
